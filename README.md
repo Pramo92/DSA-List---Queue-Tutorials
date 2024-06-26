@@ -5,7 +5,7 @@ Order Details:
 
 Order Number Customer Name Order Details Status
 
-101 &emsp; &emsp; &emsp; &emsp; Nimal &emsp; &emsp; &emsp; &emsp; Product A &emsp;  Processing
+101 &emsp; &emsp; &emsp; &emsp; Nimal  &emsp; &emsp; &emsp; Product A &emsp;  Processing
 
 102 &emsp; &emsp; &emsp; &emsp; Kamala  &emsp; &emsp; &emsp; Product B &emsp;  Pending
 
@@ -13,7 +13,7 @@ Order Number Customer Name Order Details Status
 
 104 &emsp; &emsp; &emsp; &emsp; Amal &emsp; &emsp; &emsp; &emsp; Product D &emsp;  Pending
 
-105 &emsp; &emsp; &emsp; &emsp; Nayana &ensp; &emsp; &emsp; &emsp; Product D &emsp;  Processing
+105 &emsp; &emsp; &emsp; &emsp; Nayana  &emsp; &emsp; &emsp; Product D &emsp;  Processing
 a. Who placed the first order in the system?
 b. How many orders are currently being processed?
 c. Implement a method named processNextOrder that dequeues the next order from the 
