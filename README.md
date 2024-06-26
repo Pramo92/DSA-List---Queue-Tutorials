@@ -5,7 +5,7 @@ Order Details:
 
 Order Number Customer Name Order Details Status
 
-101 &emsp; &emsp; &emsp; Nimal &emsp; &emsp; &emsp; Product A &emsp; &emsp; &emsp; Processing
+101 &emsp; &emsp; &emsp; &emsp; Nimal &emsp; &emsp; &emsp; Product A &emsp; &emsp; &emsp; Processing
 102 Kamala Product B Pending
 103 Sunil Product C Processing
 104 Amal Product D Pending
