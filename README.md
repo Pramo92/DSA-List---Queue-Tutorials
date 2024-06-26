@@ -44,10 +44,15 @@ B105 &emsp; David Copperfield &emsp; &emsp; &emsp; &emsp; &emsp; 1 &emsp; &emsp;
 patron request list.
 
 Book Id Book Title Number of requests
+
 B101 &emsp; Introduction to Programming &emsp; 2
+
 B102 &emsp; History of Science &emsp; &emsp; &emsp; &emsp; &emsp; 1
+
 B103 &emsp; The Lord of the Rings &emsp; &emsp; &emsp; &emsp; 4
+
 B104 &emsp; Jane Eyre &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 0
+
 B105 &emsp; David Copperfield &emsp; &emsp; &emsp; &emsp; &emsp; 0
 
 Guidelines:
