@@ -29,7 +29,7 @@ e. Develop a method named cancelOrder that cancels an order by updating its stat
    
 Book Details:
 
-Book Id Book Title  &emsp; &emsp; &emsp; &emsp; Available Copies Number of times Burrowed
+Book Id Book Title  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Available Copies Number of times Burrowed
 
 B101 &emsp; Introduction to Programming &emsp; &emsp; &emsp; 5 &emsp; &emsp; &emsp; 0
 
