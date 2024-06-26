@@ -31,15 +31,15 @@ Book Details:
 
 Book Id Book Title  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Available Copies Number of times Burrowed
 
-B101 &emsp; Introduction to Programming  &emsp; 5 &emsp; &emsp; &emsp; 0
+B101 &emsp; Introduction to Programming  &emsp; 5 &emsp; &emsp; &emsp; &emsp; &emsp; 0
 
-B102 &emsp; History of Science &emsp; &emsp; &emsp; &emsp; &emsp; 4 0
+B102 &emsp; History of Science &emsp; &emsp; &emsp; &emsp; &emsp; 4 &emsp; &emsp; &emsp; &emsp; &emsp; 0
 
-B103 &emsp; The Lord of the Rings &emsp; &emsp; &emsp; &emsp; 6 0
+B103 &emsp; The Lord of the Rings &emsp; &emsp; &emsp; &emsp; 6 &emsp; &emsp; &emsp; &emsp; &emsp; 0
 
-B104 &emsp; Jane Eyre &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 7 0
+B104 &emsp; Jane Eyre &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 7 &emsp; &emsp; &emsp; &emsp; &emsp; 0
 
-B105 &emsp; David Copperfield &emsp; &emsp; &emsp; &emsp; &emsp;1 0
+B105 &emsp; David Copperfield &emsp; &emsp; &emsp; &emsp; &emsp;1 &emsp; &emsp; &emsp; &emsp; &emsp; 0
 
 patron request list.
 Book Id Book Title Number 
