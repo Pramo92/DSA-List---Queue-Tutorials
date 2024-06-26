@@ -43,7 +43,7 @@ B105 &emsp; David Copperfield &emsp; &emsp; &emsp; &emsp; &emsp; 1 &emsp; &emsp;
 
 patron request list.
 
-Book Id Book Title Number of requests
+Book Id Book Title &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Number of requests
 
 B101 &emsp; Introduction to Programming &emsp; 2
 
